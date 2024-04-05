@@ -7,7 +7,7 @@ A Website that Contains A Documention On How To Solve Global warming and Other B
 
 ## Библиотеки, которые я буду использовать
 - Библиотека Flask
-- Библиотека 
+- Библиотека SQLAlchemy
 
 ## Референсы, которые мне пригодятся
 - Референс NoteBook
