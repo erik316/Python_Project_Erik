@@ -1,4 +1,4 @@
-A Website that Contains A Documention On How To Solve Global warming and Other Bad Biological Events.
+A Website that Contains A Documentation On How To Solve Global warming and Other Bad Biological Events.
 
 # Project_Ecological
 
