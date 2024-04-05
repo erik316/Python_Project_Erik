@@ -15,3 +15,6 @@ A Website that Contains A Documention On How To Solve Global warming and Other B
 
 ## Гайды-статьи, где есть полезная для меня информация
 Короткий комментарий, чтобы понимать про что статья A Website That contains all Neccary Things For My Project (https://www.un.org/ru/climatechange/science/causes-effects-climate-change)
+
+ ## Questions 1. How To Install SQLAlachemy, 2. How to Install Speech Recognition, 3. I Forgot How to Use JINGA
+ 
